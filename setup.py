@@ -5,8 +5,8 @@ setup(
     version='1.0.0',
     author='Waleed Ahmed',
     author_email='ahmedwaleed003@gmail..com',
-    description='A medical chatbot using Natural Language Processing and Machine Learning',
-    url='https://github.com/waleedahmed/medical-bot-genAi',
+    description='A medical chatbot using Natural Language Processing huggingface and langchain',
+    url='https://github.com/Ahmed546/medical-chatbot.git',
     license='MIT',
     packages=find_packages(),
     install_requires=[]

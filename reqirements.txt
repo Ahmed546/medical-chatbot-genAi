@@ -1,0 +1,15 @@
+sentence-transformers
+langchain
+flask
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+transformers
+huggingface_hub
+torch
+accelerate
+transformers[accelerate]
+langchain-huggingface
+langchain-community
+#-e .
